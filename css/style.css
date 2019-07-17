@@ -1,0 +1,41 @@
+.top-map,
+.sidebar {
+    top: 56px;
+}
+
+.sidebar {
+    float: right;
+    right: 2rem;
+    height: 50px;
+}
+
+.navbar-brand img {
+    height: 40px;
+    width: 40px;
+}
+
+main {
+    margin-top: 60px;
+}
+
+.map-view {
+    margin-top: 66px;
+}
+
+.self-img {
+    margin-bottom: 10px;
+}
+
+.self-img img {
+    height: 200px;
+    width: auto;
+}
+
+.modify-article {
+    margin-left: 50px;
+    font-size: 0.4em;
+}
+
+#map {
+    top: 0px;
+}
